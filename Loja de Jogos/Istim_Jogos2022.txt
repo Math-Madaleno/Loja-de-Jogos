@@ -1,0 +1,500 @@
+12983;First Fantasy II;WiiU;2016;27,25
+11128;President Welda;Xbox X;2017;144,73
+12520;The World of Noel;PS5;2017;71,36
+12604;The World of Empires;XBox One;2018;192,49
+11116;President Welda;PS5;2020;73,29
+10316;Purple Alive Standing;WiiU;2016;35,93
+11303;President Standing;PS4;2020;188,58
+12753;Smashing Tsubara;PS5;2019;115,64
+13035;First Fantasy III;XBox One;2018;102,65
+10583;Legend of Norton Brake;PS5;2019;120,54
+11901;Deathly Standing;Xbox X;2019;156,45
+10360;Purple Alive War;PS4;2014;22,79
+11762;Deathly Norton Brake;XBox One;2019;143,96
+12158;International Superstar Salvation;PS5;2019;84,30
+12429;The World of Standing;WiiU;2014;45,47
+11106;President Welda;XBox One;2019;161,87
+13289;First Fantasy X;PS5;2017;148,21
+12203;The World of Márcio Bros;PS5;2017;116,70
+11759;Deathly Norton Brake;PS4;2020;195,71
+10557;Legend of Tsubara;PS5;2020;111,30
+11875;Deathly Standing;XBox One;2018;188,62
+11576;Legacy of War;Xbox X;2017;107,18
+12004;International Superstar Blink;Xbox X;2020;69,93
+10470;Legend of Blink;WiiU;2016;44,15
+12383;The World of Nara Craft;Xbox X;2020;127,64
+13061;First Fantasy IV;WiiU;2014;61,06
+13317;First Fantasy X-2;XBox One;2020;123,07
+11498;Legacy of Nara Craft;WiiU;2013;73,31
+10285;Purple Alive Salvation;PS4;2014;54,46
+12360;The World of Nara Craft;WiiU;2013;20,10
+11364;Legacy of Blink;PS5;2018;92,07
+12614;The World of Empires;Xbox X;2019;178,87
+10946;Ghost of War;PS5;2018;181,79
+10792;Ghost of Welda;PS5;2020;152,62
+13125;First Fantasy VI;XBox One;2020;134,74
+10805;Ghost of Tsubara;WiiU;2013;39,00
+13231;First Fantasy IX;WiiU;2015;65,57
+11455;Legacy of Norton Brake;WiiU;2013;62,83
+11945;Deathly Empires;PS5;2017;61,39
+11388;Legacy of Welda;PS4;2017;83,43
+11660;Deathly Blink;WiiU;2015;31,79
+12133;International Superstar Nara Craft;Xbox X;2019;108,43
+12423;The World of Salvation;Xbox X;2020;174,54
+12561;The World of Artur Morgue;WiiU;2013;27,38
+12582;The World of Artur Morgue;Xbox X;2020;152,93
+11998;International Superstar Blink;XBox One;2017;103,29
+12955;Smashing Empires;PS5;2018;63,98
+11778;Deathly Nara Craft;WiiU;2014;72,59
+11488;Legacy of Norton Brake;Xbox X;2018;188,61
+11183;President Norton Brake;Xbox X;2020;74,25
+11963;International Superstar Márcio Bros;PS5;2019;87,78
+10706;Ghost of Márcio Bros;PS4;2013;28,17
+13303;First Fantasy X-2;WiiU;2015;45,28
+11938;Deathly Empires;PS4;2020;106,12
+12617;Smashing Márcio Bros;PS4;2018;144,74
+10958;Ghost of War;Xbox X;2017;96,92
+10087;Super Tsubara;PS4;2017;132,62
+13240;First Fantasy IX;XBox One;2017;180,69
+12288;The World of Tsubara;PS4;2018;203,47
+13018;First Fantasy III;WiiU;2015;50,47
+12594;The World of Empires;PS4;2017;90,31
+11178;President Norton Brake;XBox One;2019;197,16
+13022;First Fantasy III;PS4;2020;153,51
+10258;Super Empires;PS4;2013;41,15
+11648;Deathly Márcio Bros;Xbox X;2017;63,35
+12664;Smashing Blink;XBox One;2017;55,16
+10196;Super Salvation;WiiU;2014;58,09
+12184;The World of Márcio Bros;PS4;2017;135,63
+10834;Ghost of Norton Brake;WiiU;2014;22,12
+12207;The World of Márcio Bros;Xbox X;2017;153,20
+10236;Super War;PS5;2017;135,36
+11637;Deathly Márcio Bros;PS5;2020;62,84
+11245;President Salvation;WiiU;2013;42,22
+12656;Smashing Blink;PS4;2014;22,76
+12764;Smashing Tsubara;Xbox X;2020;183,81
+13453;First Fantasy XIII;PS5;2017;177,17
+10133;Super Norton Brake;Xbox X;2017;177,43
+12052;International Superstar Tsubara;WiiU;2016;20,04
+10321;Purple Alive Standing;XBox One;2020;76,55
+10919;Ghost of Salvation;Xbox X;2019;181,07
+12799;Smashing Norton Brake;PS5;2018;176,68
+11402;Legacy of Welda;Xbox X;2020;180,04
+11718;Deathly Tsubara;WiiU;2016;56,44
+12301;The World of Tsubara;PS5;2018;183,91
+10893;Ghost of Salvation;WiiU;2013;61,31
+10926;Ghost of War;WiiU;2015;69,27
+10452;Legend of Márcio Bros;PS5;2020;56,81
+12625;Smashing Márcio Bros;XBox One;2019;74,33
+11682;Deathly Blink;PS5;2018;98,70
+11139;President Tsubara;PS4;2013;68,45
+12169;International Superstar Salvation;Xbox X;2018;173,58
+11477;Legacy of Norton Brake;XBox One;2019;196,46
+12817;Smashing Nara Craft;WiiU;2013;24,91
+10020;Super Márcio Bros;XBox One;2017;73,83
+10378;Purple Alive War;Xbox X;2019;149,27
+11173;President Norton Brake;PS4;2015;49,87
+11313;President Standing;PS5;2018;105,08
+11528;Legacy of Nara Craft;PS5;2020;86,69
+12780;Smashing Norton Brake;PS4;2015;66,47
+10068;Super Welda;PS4;2020;93,60
+12729;Smashing Tsubara;WiiU;2015;57,25
+11986;International Superstar Blink;PS4;2014;53,30
+12192;The World of Márcio Bros;XBox One;2020;155,83
+11468;Legacy of Norton Brake;PS4;2017;198,00
+12113;International Superstar Norton Brake;PS5;2017;82,03
+11704;Deathly Welda;PS4;2014;45,85
+10485;Legend of Blink;PS5;2018;56,34
+11361;Legacy of Blink;XBox One;2019;175,64
+10301;Purple Alive Salvation;PS5;2020;92,49
+10937;Ghost of War;XBox One;2019;193,93
+11631;Deathly Márcio Bros;PS4;2019;84,78
+11612;Legacy of Empires;Xbox X;2017;173,30
+11730;Deathly Tsubara;PS5;2017;183,48
+12541;The World of Nellie;XBox One;2020;140,36
+13112;First Fantasy VI;PS4;2014;54,04
+10645;Legend of Empires;WiiU;2015;59,09
+13425;First Fantasy XIII;WiiU;2014;54,50
+12122;International Superstar Nara Craft;XBox One;2019;152,87
+13434;First Fantasy XIII;PS4;2019;171,26
+12396;The World of Salvation;WiiU;2015;59,30
+10058;Super Blink;PS5;2019;81,05
+11966;International Superstar Márcio Bros;Xbox X;2019;145,77
+10156;Super Nara Craft;PS4;2013;22,43
+11949;International Superstar Márcio Bros;WiiU;2013;48,70
+10344;Purple Alive Standing;Xbox X;2018;145,68
+11071;President Blink;Xbox X;2020;99,22
+13006;First Fantasy II;PS5;2020;200,26
+10331;Purple Alive Standing;PS5;2018;61,67
+10052;Super Blink;XBox One;2018;131,94
+12455;The World of Standing;Xbox X;2017;86,26
+11706;Deathly Welda;XBox One;2018;110,12
+11063;President Blink;PS5;2018;83,01
+13012;First Fantasy II;Xbox X;2020;59,60
+10214;Super Salvation;PS5;2020;61,23
+10398;Purple Alive Empires;PS4;2015;20,73
+13327;First Fantasy X-2;PS5;2018;156,63
+10797;Ghost of Welda;Xbox X;2020;58,63
+12513;The World of Noel;XBox One;2018;64,48
+11844;Deathly Salvation;PS5;2019;57,48
+13067;First Fantasy IV;PS5;2019;124,65
+10567;Legend of Norton Brake;WiiU;2016;22,44
+13447;First Fantasy XIII;XBox One;2017;107,98
+12964;First Fantasy ;WiiU;2015;39,11
+10605;Legend of Nara Craft;Xbox X;2017;143,01
+12104;International Superstar Norton Brake;XBox One;2019;196,72
+12969;First Fantasy ;XBox One;2020;113,43
+10499;Legend of Welda;WiiU;2013;20,71
+10823;Ghost of Tsubara;Xbox X;2018;94,82
+11838;Deathly Salvation;XBox One;2017;188,60
+12246;The World of Blink;Xbox X;2019;136,06
+11093;President Welda;PS4;2013;50,59
+11399;Legacy of Welda;XBox One;2018;96,57
+10438;Legend of Márcio Bros;PS4;2019;65,64
+12335;The World of Norton Brake;XBox One;2020;79,55
+10589;Legend of Nara Craft;WiiU;2016;49,28
+12616;Smashing Márcio Bros;WiiU;2014;41,94
+13371;First Fantasy XI;Xbox X;2019;129,13
+10554;Legend of Tsubara;XBox One;2017;124,18
+12944;Smashing Empires;PS4;2018;192,76
+12950;Smashing Empires;XBox One;2020;192,71
+11342;Legacy of Márcio Bros;PS5;2020;167,10
+11294;President Standing;WiiU;2015;73,01
+11196;President Nara Craft;WiiU;2015;25,90
+10986;Ghost of Empires;PS5;2018;83,85
+10660;Legend of Empires;XBox One;2017;70,47
+10227;Super War;WiiU;2016;52,07
+10891;Ghost of Nara Craft;Xbox X;2019;103,58
+11371;Legacy of Blink;Xbox X;2019;188,20
+10624;Legend of Salvation;PS4;2016;21,07
+12559;The World of Nellie;Xbox X;2018;111,58
+11912;Deathly War;PS4;2014;74,16
+11738;Deathly Tsubara;Xbox X;2020;101,70
+11406;Legacy of Tsubara;WiiU;2013;55,20
+10856;Ghost of Norton Brake;Xbox X;2020;69,06
+11280;President Salvation;PS5;2018;73,74
+11161;President Norton Brake;WiiU;2016;45,50
+10898;Ghost of Salvation;PS4;2020;178,87
+10519;Legend of Welda;XBox One;2019;64,57
+10712;Ghost of Márcio Bros;PS5;2019;87,35
+11782;Deathly Nara Craft;PS4;2014;24,32
+12873;Smashing Salvation;XBox One;2020;175,95
+13358;First Fantasy XI;XBox One;2018;72,03
+11669;Deathly Blink;PS4;2017;102,05
+13053;First Fantasy III;Xbox X;2020;84,88
+11543;Legacy of War;PS4;2017;161,24
+12577;The World of Artur Morgue;PS5;2018;55,76
+12308;The World of Tsubara;Xbox X;2019;61,20
+10265;Super Empires;XBox One;2017;77,37
+11331;Legacy of Márcio Bros;WiiU;2014;53,88
+12968;First Fantasy ;PS4;2013;66,75
+11772;Deathly Norton Brake;PS5;2019;146,93
+12344;The World of Norton Brake;PS5;2018;139,41
+10648;Legend of Empires;PS4;2015;28,93
+13080;First Fantasy V;PS4;2018;202,06
+13064;First Fantasy IV;XBox One;2019;77,97
+12921;Smashing War;PS5;2019;178,09
+11347;Legacy of Márcio Bros;Xbox X;2018;97,08
+10696;Ghost of Márcio Bros;WiiU;2014;62,69
+10226;Super Salvation;Xbox X;2020;101,23
+10684;Legend of Empires;Xbox X;2019;104,99
+12914;Smashing War;XBox One;2019;95,63
+12102;International Superstar Norton Brake;PS4;2017;71,28
+12710;Smashing Welda;XBox One;2020;133,57
+10510;Legend of Welda;PS4;2019;55,46
+12146;International Superstar Salvation;XBox One;2017;119,28
+11150;President Tsubara;Xbox X;2019;199,57
+13143;First Fantasy VII;WiiU;2013;68,22
+11691;Deathly Blink;Xbox X;2019;95,60
+11267;President Salvation;XBox One;2020;115,00
+12613;The World of Empires;PS5;2018;179,07
+10733;Ghost of Blink;WiiU;2014;48,21
+12140;International Superstar Salvation;PS4;2017;118,19
+11445;Legacy of Tsubara;Xbox X;2020;187,01
+10103;Super Norton Brake;WiiU;2014;41,86
+10125;Super Norton Brake;PS5;2017;160,77
+10878;Ghost of Nara Craft;XBox One;2019;70,91
+12409;The World of Salvation;PS4;2014;42,77
+13251;First Fantasy IX;Xbox X;2018;188,47
+11720;Deathly Tsubara;PS4;2013;74,96
+10305;Purple Alive Salvation;Xbox X;2018;170,86
+11811;Deathly Nara Craft;Xbox X;2019;101,86
+11921;Deathly War;XBox One;2020;99,43
+12957;Smashing Empires;Xbox X;2018;182,02
+12528;The World of Noel;Xbox X;2019;190,71
+13130;First Fantasy VI;Xbox X;2019;97,51
+12092;International Superstar Norton Brake;WiiU;2016;55,42
+13459;First Fantasy XIII-2;WiiU;2013;38,61
+11207;President Nara Craft;PS4;2013;20,16
+11340;Legacy of Márcio Bros;XBox One;2017;178,35
+11600;Legacy of Empires;PS5;2020;134,47
+10390;Purple Alive Empires;WiiU;2013;32,01
+12375;The World of Nara Craft;PS5;2018;101,35
+11419;Legacy of Tsubara;PS4;2016;24,50
+12228;The World of Blink;XBox One;2020;88,84
+12240;The World of Blink;PS5;2019;101,70
+12740;Smashing Tsubara;XBox One;2020;107,84
+13129;First Fantasy VI;PS5;2018;61,58
+12540;The World of Nellie;PS4;2013;70,57
+12366;The World of Nara Craft;XBox One;2019;124,19
+13301;First Fantasy X;Xbox X;2017;147,06
+11380;Legacy of Welda;WiiU;2015;56,54
+10173;Super Nara Craft;PS5;2017;77,16
+12722;Smashing Welda;PS5;2019;162,98
+13334;First Fantasy X-2;Xbox X;2017;97,41
+11632;Deathly Márcio Bros;XBox One;2017;195,21
+11795;Deathly Nara Craft;XBox One;2020;125,67
+10270;Super Empires;PS5;2018;58,95
+13399;First Fantasy XII;XBox One;2020;125,27
+11888;Deathly Standing;PS5;2020;116,64
+10615;Legend of Salvation;WiiU;2014;60,43
+11223;President Nara Craft;PS5;2019;196,05
+10235;Super War;XBox One;2017;55,59
+11679;Deathly Blink;XBox One;2019;80,73
+11932;Deathly Empires;WiiU;2013;21,70
+12924;Smashing War;Xbox X;2018;109,06
+11440;Legacy of Tsubara;PS5;2020;175,77
+12680;Smashing Blink;Xbox X;2017;69,12
+12419;The World of Salvation;PS5;2017;83,26
+10297;Purple Alive Salvation;XBox One;2020;72,28
+11046;President Blink;WiiU;2016;62,99
+11956;International Superstar Márcio Bros;XBox One;2017;106,58
+13276;First Fantasy X;XBox One;2017;76,19
+10999;Ghost of Empires;Xbox X;2019;99,59
+13099;First Fantasy VI;WiiU;2014;46,48
+10585;Legend of Norton Brake;Xbox X;2017;173,84
+12002;International Superstar Blink;PS5;2017;154,78
+13245;First Fantasy IX;PS5;2020;172,51
+11217;President Nara Craft;XBox One;2020;82,28
+12829;Smashing Nara Craft;XBox One;2020;195,18
+11004;President Márcio Bros;WiiU;2013;30,07
+10277;Purple Alive Salvation;WiiU;2014;62,99
+10161;Super Nara Craft;XBox One;2018;161,67
+12116;International Superstar Nara Craft;PS4;2013;55,30
+12894;Smashing Salvation;Xbox X;2019;121,58
+13196;First Fantasy VIII;PS4;2018;116,22
+13476;First Fantasy XIII-2;XBox One;2019;97,14
+13081;First Fantasy V;XBox One;2020;161,47
+10067;Super Welda;WiiU;2014;32,90
+10418;Purple Alive Empires;Xbox X;2017;65,30
+10377;Purple Alive War;PS5;2017;160,99
+13390;First Fantasy XII;PS4;2019;107,73
+12636;Smashing Márcio Bros;Xbox X;2017;98,27
+13454;First Fantasy XIII;Xbox X;2019;199,01
+10533;Legend of Tsubara;WiiU;2015;70,24
+10673;Legend of Empires;PS5;2018;122,82
+10475;Legend of Blink;PS4;2019;132,02
+10273;Super Empires;Xbox X;2019;62,65
+10561;Legend of Tsubara;Xbox X;2019;147,49
+13062;First Fantasy IV;PS4;2016;26,36
+10525;Legend of Welda;Xbox X;2018;60,18
+10185;Super Nara Craft;Xbox X;2017;190,93
+10073;Super Welda;PS5;2017;103,04
+11773;Deathly Norton Brake;Xbox X;2018;113,07
+11012;President Márcio Bros;PS4;2018;59,44
+13222;First Fantasy VIII;Xbox X;2017;63,22
+12838;Smashing Nara Craft;Xbox X;2020;83,01
+10762;Ghost of Blink;Xbox X;2017;162,24
+12220;The World of Blink;PS4;2018;159,51
+12272;The World of Welda;Xbox X;2017;167,73
+12416;The World of Salvation;XBox One;2017;69,33
+10909;Ghost of Salvation;PS5;2017;61,31
+12115;International Superstar Nara Craft;WiiU;2013;30,94
+12129;International Superstar Nara Craft;PS5;2019;184,09
+10572;Legend of Norton Brake;XBox One;2020;76,28
+12326;The World of Norton Brake;PS4;2013;43,11
+12282;The World of Tsubara;WiiU;2016;44,83
+12208;The World of Blink;WiiU;2015;73,61
+11233;President Nara Craft;Xbox X;2019;163,02
+10811;Ghost of Tsubara;XBox One;2018;59,07
+11979;International Superstar Blink;WiiU;2015;55,40
+11142;President Tsubara;PS5;2020;107,23
+11822;Deathly Salvation;WiiU;2014;70,56
+10819;Ghost of Tsubara;PS5;2019;87,96
+12975;First Fantasy ;PS5;2020;70,57
+12554;The World of Nellie;PS5;2019;78,10
+11028;President Márcio Bros;PS5;2019;195,02
+12031;International Superstar Welda;XBox One;2019;98,63
+10233;Super War;PS4;2016;65,16
+10463;Legend of Márcio Bros;Xbox X;2019;174,67
+12357;The World of Norton Brake;Xbox X;2018;115,94
+13265;First Fantasy X;PS4;2017;186,71
+10742;Ghost of Blink;PS4;2013;74,29
+10143;Super Nara Craft;WiiU;2013;49,70
+10450;Legend of Márcio Bros;XBox One;2020;124,61
+13256;First Fantasy X;WiiU;2016;33,75
+12992;First Fantasy II;PS4;2015;68,58
+11484;Legacy of Norton Brake;PS5;2019;124,99
+11338;Legacy of Márcio Bros;PS4;2020;196,36
+11531;Legacy of Nara Craft;Xbox X;2020;150,14
+11518;Legacy of Nara Craft;XBox One;2020;143,13
+10410;Purple Alive Empires;PS5;2017;95,12
+12906;Smashing War;PS4;2015;30,77
+10843;Ghost of Norton Brake;PS4;2013;31,89
+11623;Deathly Márcio Bros;WiiU;2014;52,00
+13360;First Fantasy XI;PS5;2020;71,41
+12735;Smashing Tsubara;PS4;2019;188,47
+12586;The World of Empires;WiiU;2016;21,19
+13464;First Fantasy XIII-2;PS4;2015;35,67
+11911;Deathly War;WiiU;2015;56,05
+10571;Legend of Norton Brake;PS4;2016;40,50
+11016;President Márcio Bros;XBox One;2019;89,63
+10013;Super Márcio Bros;WiiU;2016;56,75
+10081;Super Tsubara;WiiU;2014;34,31
+13484;First Fantasy XIII-2;PS5;2019;116,42
+10869;Ghost of Nara Craft;PS4;2019;73,21
+10966;Ghost of Empires;WiiU;2014;49,99
+11351;Legacy of Blink;PS4;2020;133,84
+12432;The World of Standing;PS4;2018;191,08
+11827;Deathly Salvation;PS4;2019;187,21
+12114;International Superstar Norton Brake;Xbox X;2020;153,37
+10098;Super Tsubara;Xbox X;2019;141,58
+11556;Legacy of War;XBox One;2020;71,65
+12013;International Superstar Welda;WiiU;2015;27,48
+13177;First Fantasy VII;Xbox X;2020;102,28
+10807;Ghost of Tsubara;PS4;2017;194,36
+12935;Smashing Empires;WiiU;2014;51,64
+11256;President Salvation;PS4;2016;52,49
+12177;The World of Márcio Bros;WiiU;2014;50,49
+11874;Deathly Standing;PS4;2018;57,79
+13174;First Fantasy VII;PS5;2017;199,66
+10934;Ghost of War;PS4;2020;90,71
+11579;Legacy of Empires;WiiU;2014;48,67
+11056;President Blink;XBox One;2017;187,51
+12834;Smashing Nara Craft;PS5;2018;182,18
+12849;Smashing Salvation;WiiU;2015;59,15
+12258;The World of Welda;PS4;2013;58,16
+10545;Legend of Tsubara;PS4;2019;194,35
+12259;The World of Welda;XBox One;2020;102,59
+10062;Super Blink;Xbox X;2018;169,19
+10045;Super Blink;WiiU;2016;34,44
+11580;Legacy of Empires;PS4;2019;163,10
+12042;International Superstar Welda;PS5;2020;201,84
+10428;Legend of Márcio Bros;WiiU;2013;59,50
+10626;Legend of Salvation;XBox One;2020;187,25
+11715;Deathly Welda;Xbox X;2017;169,51
+13493;First Fantasy XIII-2;Xbox X;2018;138,05
+10783;Ghost of Welda;XBox One;2019;203,47
+10478;Legend of Blink;XBox One;2018;129,94
+11532;Legacy of War;WiiU;2013;47,55
+10906;Ghost of Salvation;XBox One;2019;56,36
+10763;Ghost of Welda;WiiU;2014;35,92
+12727;Smashing Welda;Xbox X;2020;190,19
+13379;First Fantasy XII;WiiU;2016;48,21
+10366;Purple Alive War;XBox One;2019;118,05
+11138;President Tsubara;WiiU;2016;41,53
+10027;Super Márcio Bros;PS5;2018;133,41
+11084;President Welda;WiiU;2014;50,80
+11709;Deathly Welda;PS5;2017;123,07
+11928;Deathly War;PS5;2020;196,09
+10241;Super War;Xbox X;2019;175,78
+12770;Smashing Norton Brake;WiiU;2013;63,73
+10406;Purple Alive Empires;XBox One;2020;109,77
+12896;Smashing War;WiiU;2014;69,87
+11052;President Blink;PS4;2013;27,44
+11851;Deathly Salvation;Xbox X;2020;99,75
+10847;Ghost of Norton Brake;XBox One;2020;143,85
+11590;Legacy of Empires;XBox One;2019;85,06
+12248;The World of Welda;WiiU;2016;64,71
+11929;Deathly War;Xbox X;2017;167,83
+11432;Legacy of Tsubara;XBox One;2019;118,08
+11036;President Márcio Bros;Xbox X;2019;203,11
+13187;First Fantasy VIII;WiiU;2016;33,15
+12704;Smashing Welda;PS4;2017;173,01
+11292;President Salvation;Xbox X;2020;191,60
+12050;International Superstar Welda;Xbox X;2019;107,70
+12572;The World of Artur Morgue;XBox One;2019;71,42
+13401;First Fantasy XII;PS5;2017;157,75
+10250;Super Empires;WiiU;2014;61,16
+11304;President Standing;XBox One;2020;80,89
+13071;First Fantasy IV;Xbox X;2019;112,35
+11322;President Standing;Xbox X;2018;136,33
+10108;Super Norton Brake;PS4;2013;28,37
+11721;Deathly Tsubara;XBox One;2019;108,36
+11563;Legacy of War;PS5;2019;175,90
+12473;The World of War;XBox One;2019;150,02
+12450;The World of Standing;PS5;2019;130,11
+13345;First Fantasy XI;PS4;2020;76,04
+12564;The World of Artur Morgue;PS4;2015;40,56
+13210;First Fantasy VIII;PS5;2019;185,83
+11863;Deathly Standing;WiiU;2013;51,91
+12320;The World of Norton Brake;WiiU;2014;42,73
+12883;Smashing Salvation;PS5;2017;177,11
+12504;The World of Noel;PS4;2019;103,69
+10198;Super Salvation;PS4;2017;132,46
+13413;First Fantasy XII;Xbox X;2019;78,09
+10038;Super Márcio Bros;Xbox X;2017;80,27
+10318;Purple Alive Standing;PS4;2018;152,22
+12458;The World of War;WiiU;2014;72,10
+10522;Legend of Welda;PS5;2020;153,12
+11946;Deathly Empires;Xbox X;2017;157,80
+10642;Legend of Salvation;Xbox X;2020;104,93
+10051;Super Blink;PS4;2020;163,66
+10350;Purple Alive War;WiiU;2016;48,38
+11349;Legacy of Blink;WiiU;2014;38,68
+13151;First Fantasy VII;PS4;2015;70,98
+11694;Deathly Welda;WiiU;2016;68,51
+12628;Smashing Márcio Bros;PS5;2017;173,85
+13048;First Fantasy III;PS5;2017;74,45
+12537;The World of Nellie;WiiU;2014;54,40
+13163;First Fantasy VII;XBox One;2020;187,25
+12021;International Superstar Welda;PS4;2016;66,34
+11802;Deathly Nara Craft;PS5;2018;187,10
+13340;First Fantasy XI;WiiU;2016;40,19
+11509;Legacy of Nara Craft;PS4;2014;28,59
+12820;Smashing Nara Craft;PS4;2013;63,87
+11179;President Norton Brake;PS5;2018;176,55
+10594;Legend of Nara Craft;PS4;2014;42,04
+10208;Super Salvation;XBox One;2017;82,96
+12979;First Fantasy ;Xbox X;2018;201,35
+10117;Super Norton Brake;XBox One;2018;68,52
+10497;Legend of Blink;Xbox X;2018;179,33
+12493;The World of Noel;WiiU;2013;47,78
+12692;Smashing Welda;WiiU;2013;49,17
+12086;International Superstar Tsubara;Xbox X;2018;82,47
+10753;Ghost of Blink;XBox One;2017;169,93
+12483;The World of War;PS5;2018;150,97
+12677;Smashing Blink;PS5;2018;152,65
+12063;International Superstar Tsubara;PS4;2019;141,90
+11141;President Tsubara;XBox One;2018;121,74
+10089;Super Tsubara;XBox One;2017;60,30
+12491;The World of War;Xbox X;2019;181,42
+10015;Super Márcio Bros;PS4;2020;76,14
+11400;Legacy of Welda;PS5;2020;89,28
+11950;International Superstar Márcio Bros;PS4;2013;40,07
+13091;First Fantasy V;PS5;2018;96,41
+10848;Ghost of Norton Brake;PS5;2017;118,33
+13306;First Fantasy X-2;PS4;2013;62,09
+10639;Legend of Salvation;PS5;2018;198,65
+12644;Smashing Blink;WiiU;2013;49,94
+10069;Super Welda;XBox One;2018;130,84
+13205;First Fantasy VIII;XBox One;2020;179,61
+10595;Legend of Nara Craft;XBox One;2019;99,61
+12860;Smashing Salvation;PS4;2019;199,95
+11940;Deathly Empires;XBox One;2018;153,59
+12462;The World of War;PS4;2018;187,44
+13233;First Fantasy IX;PS4;2019;123,09
+10770;Ghost of Welda;PS4;2014;50,36
+10973;Ghost of Empires;XBox One;2018;148,80
+10709;Ghost of Márcio Bros;XBox One;2019;75,20
+12443;The World of Standing;XBox One;2019;195,94
+10867;Ghost of Nara Craft;WiiU;2013;74,64
+10723;Ghost of Márcio Bros;Xbox X;2017;143,75
+12364;The World of Nara Craft;PS4;2014;72,42
+13075;First Fantasy V;WiiU;2015;51,02
+10601;Legend of Nara Craft;PS5;2020;191,09
+12293;The World of Tsubara;XBox One;2019;130,27
+12270;The World of Welda;PS5;2017;143,39
+13092;First Fantasy V;Xbox X;2019;204,17
+12786;Smashing Norton Brake;XBox One;2017;196,23
+12076;International Superstar Tsubara;PS5;2020;78,32
+11747;Deathly Norton Brake;WiiU;2015;30,09
+10758;Ghost of Blink;PS5;2020;155,81
+12068;International Superstar Tsubara;XBox One;2019;107,65
+10972;Ghost of Empires;PS4;2017;150,17
+10094;Super Tsubara;PS5;2018;177,12
+12139;International Superstar Salvation;WiiU;2015;53,84
+13000;First Fantasy II;XBox One;2020;131,86
+10076;Super Welda;Xbox X;2018;112,15
+10890;Ghost of Nara Craft;PS5;2019;103,20
+12812;Smashing Norton Brake;Xbox X;2019;154,40
